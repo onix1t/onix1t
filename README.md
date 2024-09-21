@@ -24,12 +24,21 @@
   <h2>Languages and Tools</h2>
   <div style="white-space: nowrap;">
     <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
+      <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS" width="40" height="40"/>
+    </span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
