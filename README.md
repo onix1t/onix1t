@@ -33,10 +33,28 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" title="CLion" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" title="WebStorm" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" title="Rider" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/>
     </span>
   </div>
 </div>
