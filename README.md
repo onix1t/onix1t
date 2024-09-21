@@ -45,6 +45,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
