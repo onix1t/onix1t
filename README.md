@@ -60,6 +60,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" title="Rider" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>
+    </span>
+    <span style="display: inline-block; margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" width="40" height="40"/>
     </span>
     <span style="display: inline-block; margin-right: 10px;">
