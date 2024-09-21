@@ -16,7 +16,7 @@
   <!-- About Me Section -->
   <div class="section">
     <h2>About Me</h2>
-    <p>I'm an aspiring developer currently studying computer science at a Russian university. I have a strong passion for gamedesign, web development, data science, and open-source projects. I love solving complex problems and contributing to the developer community.</p>
+    <p>I'm an aspiring developer currently studying computer science at a Russian university. I have a strong passion for gamedev, web development, data science, and open-source projects. I love solving complex problems and contributing to the developer community.</p>
   </div>
 
 <!-- Skills Section -->
