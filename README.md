@@ -7,7 +7,7 @@
 
 <!-- Header Section -->
 <header>
-  <h1>Hi, I'm Ivan!</h1>
+  <h1>Well, hello!</h1>
   <h3>Aspiring Developer | Computer Science Student</h3>
 </header>
 
