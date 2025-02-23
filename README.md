@@ -25,13 +25,7 @@
   <h2>Languages and Tools</h2>
   <div style="white-space: nowrap;">
     <span style="display: inline-block; margin-right: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40"/>
-    </span>
-    <span style="display: inline-block; margin-right: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
-    </span>
-    <span style="display: inline-block; margin-right: 10px;">      
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="java" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" width="40" height="40" />
     </span>
   </div>
 </div>
