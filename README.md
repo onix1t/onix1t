@@ -8,7 +8,7 @@
 <!-- Header Section -->
 <header>
   <h1>Well, hello!</h1>
-  <h3>Computer Science Student | School 21 Student</h3>
+  <h3>Computer Science Student</h3>
 </header>
 
 <div class="container">
@@ -16,8 +16,7 @@
   <!-- About Me Section -->
   <div class="section">
     <h2>About Me</h2>
-    <p>I'm an aspiring developer currently studying computer science at a Russian university.</p>
-    <p>I have a strong passion for gamedev and frontend development.</p>
+    <p>I'm a beginner developer, currently studying computer science at university.</p>
   </div>
 
 <!-- Skills Section -->
